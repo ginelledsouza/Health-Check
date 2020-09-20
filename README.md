@@ -1,2 +1,2 @@
-# Health-Check
-Classification of chest x-ray to identify whether or not a person is suffering from pneumonia 
+# Health Check : X-ray Classification
+The following repository consists of a jupyter notebook that classifies whether or not a person is suffering from penumonia.<br>
